@@ -3,9 +3,9 @@
 <h3 align="center">Développeur Full-Stack du Maroc</h3>
 <img align="right" alt="Coding" width="50%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 J'apprends actuellement **Vue 3**
+- 🌱 J'apprends actuellement **FLUTTER**
 
-- 📫 Comment me joindre **soufianeelmsr@gmail.com**
+- 📫 Comment me joindre **elmasraoui.soufiane@gmail.com**
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
