@@ -3,7 +3,7 @@
 <h3 align="center">Développeur Full-Stack du Maroc</h3>
 <img align="right" alt="Coding" width="50%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 J'apprends actuellement **FLUTTER**
+- 🌱 J'apprends actuellement **C++**
 
 - 📫 Comment me joindre **elmasraoui.soufiane@gmail.com**
 
