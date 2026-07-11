@@ -6,7 +6,7 @@
 <h3 align="center">Full-Stack developer from Morocco</h3>
 <img align="right" alt="Coding" width="50%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Claude Code**
 
 - 📫 How to reach me **elmasraoui.soufiane@gmail.com**
 
